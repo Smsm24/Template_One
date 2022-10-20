@@ -56,6 +56,10 @@ body {
 .header {
     padding: 20px;
     height: 64px;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    z-index: 6;
 }
 .header .container{
     display: flex;
